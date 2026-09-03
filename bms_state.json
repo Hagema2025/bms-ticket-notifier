@@ -112,6 +112,54 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVSR|27376|20260904|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260904",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVSR|27376|20260904|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260904",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|27376|20260904|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260904",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|27377|20260904|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260904",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVSR|27377|20260904|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260904",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|27377|20260904|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260904",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PVHC|31766|20260904|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "04:35 PM",
@@ -336,6 +384,54 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVSR|27391|20260905|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260905",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVSR|27391|20260905|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260905",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|27391|20260905|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260905",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|27393|20260905|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260905",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVSR|27393|20260905|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260905",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|27393|20260905|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260905",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PVHC|31801|20260905|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "04:35 PM",
@@ -557,6 +653,54 @@
       "time": "10:50 PM",
       "date": "20260906",
       "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|27395|20260906|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260906",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVSR|27395|20260906|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260906",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|27395|20260906|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:25 PM",
+      "date": "20260906",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|27397|20260906|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260906",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVSR|27397|20260906|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260906",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|27397|20260906|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:05 PM",
+      "date": "20260906",
+      "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
     },
